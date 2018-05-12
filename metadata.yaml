@@ -1,0 +1,30 @@
+_repo: Paternit-_27626
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Du Veuzit, Max
+    aliases:
+    - Veuzit, Max du
+    - Simonet, Alphonsine (Vavassoir-Archer)
+    birthdate: 1886
+    deathdate: 1952
+    gutenberg_agent_id: '32799'
+    url: http://www.gutenberg.org/2009/agents/32799
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2008-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27626'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama'
+- !lcc 'PQ'
+title: Paternité
+url: http://www.gutenberg.org/ebooks/27626
